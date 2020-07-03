@@ -1,0 +1,10 @@
+package springandtomcat.spring.annotation;
+
+import java.lang.annotation.*;
+
+@Documented
+@Target(ElementType.FIELD)
+@Retention(RetentionPolicy.RUNTIME)
+public @interface SATAutowired {
+    public String value();
+}
