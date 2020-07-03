@@ -3,7 +3,7 @@
 
 程序执行springandtomcat.tomcat.BootStrap.SpringRunApplication
 
-访问http://localhost:8080/user/insert
+ie或者google chrome访问http://localhost:8080/user/insert
 
 画面显示123
 
